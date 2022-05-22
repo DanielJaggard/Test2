@@ -1,0 +1,68 @@
+{
+	"scenarioName": "Flat Roof Decking",	
+	"prefabName" : "Flat Roof Decking_Model",
+	"background" : "mattSkybox_LightBrown",
+	
+	"markersData": [
+		{
+			"title": "Tilt Fillet",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_TiltFillet"
+		},	
+		{
+			"title": "Roofing Felt",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_RoofingFelt"
+		},
+		{
+			"title": "Fascia",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_Fascia"
+		},
+		{
+			"title": "Plastic Air Vent",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_PlasticAirVent"
+		},
+		{
+			"title": "Brickwork",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_Brickwork"
+		},	
+		{
+			"title": "Blockwork",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_Blockwork"
+		},
+		{
+			"title": "Wall Plate",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_WallPlate"
+		},
+		{
+			"title": "Short Joist",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_ShortJoist"
+		},
+		{
+			"title": "Joist",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_Joist"
+		},
+		{
+			"title": "Firring",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_Firring"
+		},
+		{
+			"title": "Fillet",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_FilletToBringShortJoistLevel"
+		},
+		{
+			"title": "Treated Chipboard",
+			"description": "----",
+			"nodeToAttach": "NodeLabel_TreatedChipboardDecking"
+		}
+	]
+}
